@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  2DStableFluids.cpp
+  ChildView.cpp
+  FluidSolver.cpp
+  MainFrm.cpp
+C:\Users\riley\OneDrive\Desktop\2DStableFluids\FluidProject\2DStableFluids\FluidSolver.cpp(275,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/FluidSolver.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 299 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  2DStableFluids.vcxproj -> C:\Users\riley\OneDrive\Desktop\2DStableFluids\FluidProject\Release\2DStableFluids.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
