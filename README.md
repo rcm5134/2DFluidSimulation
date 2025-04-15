@@ -10,17 +10,17 @@ https://pages.cs.wisc.edu/~chaol/data/cs777/stam-stable_fluids.pdf
 There are two ways to access this program. Either open the 2DStableFluids.exe file in the Release folder, or open the 2DStableFluids.sln file using Visual Studio with MFC application support installed. 
 
 # Controls
---- Simulation ---__
-Z : Start Animation__
-Left Click: Inject Fluid__
-Right Button: Stir Fluid__
-R : Reset__
---- Display ---__
-V : Show/Hide Velocity__
-D : Show/Hide Density Heatmap__
-G : Show/Hide Gridlines__
-B: Switch White Hot/Black Hot__
-A : One more time step__
--/+: Decrease/Increase Viscosity__
-Down/Up Arrow: Decrease/Increase Buoyancy__
+--- Simulation ---<br />
+Z : Start Animation<br />
+Left Click: Inject Fluid<br />
+Right Button: Stir Fluid<br />
+R : Reset<br />
+--- Display ---<br />
+V : Show/Hide Velocity<br />
+D : Show/Hide Density Heatmap<br />
+G : Show/Hide Gridlines<br />
+B: Switch White Hot/Black Hot<br />
+A : One more time step<br />
+-/+: Decrease/Increase Viscosity<br />
+Down/Up Arrow: Decrease/Increase Buoyancy<br />
 O/P: Decrease/Increase Fill Tool Density
